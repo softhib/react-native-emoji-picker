@@ -50,11 +50,11 @@ const emojisByCategory = mapValues(groupedAndSorted, group =>
 );
 
 const CATEGORIES = [
-  "People",
-  "Nature",
-  "Foods",
-  "Activity",
-  "Places",
+  "Smileys & People",
+  "Animals & Nature",
+  "Food & Drink",
+  "Activities",
+  "Travel & Places",
   "Objects",
   "Symbols",
   "Flags"
